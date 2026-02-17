@@ -50,11 +50,15 @@ python grade_calculator.py
 
 ## 🗂️ Code Structure
 student-grade-calculator/
+|
 │
-├── grade_calculator.py     # Main program file
-├── README.md               # Project documentation
-├── test_students.txt       # Sample input file
-└── result_sample.txt       # Saved output results
+├── grade_calculator.py               # Main program file
+|
+├── README.md                         # Project documentation
+|
+├── test_students.txt                 # Sample input file
+|
+└── result_sample.txt                 # Saved output results
 
 ## Main Components:
 Input Section:
@@ -221,4 +225,5 @@ Technical Documentation Writing
 ## 📌 Conclusion
 
 This project successfully demonstrates foundational Python programming concepts and structured problem-solving. The application is user-friendly, validates input effectively, and presents results in a professional format.
+
 
