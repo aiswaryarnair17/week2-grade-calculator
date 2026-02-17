@@ -40,7 +40,7 @@ Check using:
 python --version
 
 2️⃣ Clone the Repository
-git clone [https://github.com/yourusername/student-grade-calculator.git](https://github.com/aiswaryarnair17/week2-grade-calculator)
+git clone (https://github.com/aiswaryarnair17/week2-grade-calculator)
 
 3️⃣ Navigate to Project Folder
 cd student-grade-calculator
