@@ -40,7 +40,7 @@ Check using:
 python --version
 
 2️⃣ Clone the Repository
-git clone https://github.com/yourusername/student-grade-calculator.git
+git clone [https://github.com/yourusername/student-grade-calculator.git](https://github.com/aiswaryarnair17/week2-grade-calculator)
 
 3️⃣ Navigate to Project Folder
 cd student-grade-calculator
@@ -221,3 +221,4 @@ Technical Documentation Writing
 ## 📌 Conclusion
 
 This project successfully demonstrates foundational Python programming concepts and structured problem-solving. The application is user-friendly, validates input effectively, and presents results in a professional format.
+
